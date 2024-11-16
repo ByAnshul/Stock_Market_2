@@ -2,4 +2,4 @@ streamlit==1.40.1
 plotly==5.15.0
 yfinance==0.2.25
 ta==0.10.3
-streamlit-autorefresh==0.1.0
+streamlit-autorefresh==1.0.0
