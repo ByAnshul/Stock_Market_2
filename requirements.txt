@@ -1,0 +1,5 @@
+streamlit==1.19.0
+plotly==5.15.0
+yfinance==0.2.25
+ta==0.10.0
+streamlit-autorefresh==0.1.0
